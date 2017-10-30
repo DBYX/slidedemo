@@ -1,59 +1,55 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 王都越 (1600012197@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/DBYX
 
 ---
 
-## 第一部分
+## 我的情况
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered">1. 基本信息</font>
 
----
+#### &nbsp; &nbsp; 性别
+#### &nbsp; &nbsp; 年龄
+#### &nbsp; &nbsp; 籍贯
 
-## 插图
+### 2. 兴趣爱好
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### 3. 一幅小图
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 基本信息
 
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;性别 男  &nbsp; &nbsp; &nbsp; &nbsp;    
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;年龄 19  
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;籍贯 北京
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+---
+##兴趣爱好 
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;体育：羽毛球&nbsp;  &nbsp;&nbsp;轮滑&nbsp;&nbsp;&nbsp;  跳绳 
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电影：《肖申克的救赎》&nbsp;&nbsp;&nbsp;《美国精神病人》  
+  
+  
+  
+  
+  
+  
+  
+  
+---
+##一幅小图
 
-Display formula:
+** MY CAT QQ **
 
-$$e^{i\pi} + 1 = 0$$
+![](https://i.imgur.com/8Y07oco.jpg)
+
 
 ---
 
